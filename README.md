@@ -1,1 +1,1 @@
-Some of the research codes I have used during my time as an undergraduate student and research assistant. Please let me know if you wish to use my codes, and do not use them without my permission
+Some of the research codes I have used during my time as an undergraduate student and research assistant. Please let me know if you wish to use my codes, and do not use them without my permission. It is easier to look at the Jupyter Notebook codes on the github page, as the cells are more clearly spread out and the information is presented more neatly.
