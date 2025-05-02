@@ -1,1 +1,1 @@
-Some of the research codes I have used over the course of doing research as an undergraduate student and research assistant. Please inform me if you wish to use my codes, and don't use them without my permission
+Some of the research codes I have used over the course of doing research as an undergraduate student and research assistant. Please inform me if you wish to use my codes, and don't use them without my permission.
